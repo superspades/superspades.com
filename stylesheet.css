@@ -1,0 +1,44 @@
+#wrapper {
+	width:90%;
+	margin-top:1%;
+	margin-left:2%;
+	background-color:rgba(255,255,255,0.9);
+	border:solid 1px #eee;
+    border-radius:10px;
+    box-shadow:1px 1px 3px 3px #000;
+}
+
+#title {
+	line-height: 0.5em;
+	margin-left:2%;
+}
+
+figcaption:hover{
+	color: red;
+}
+
+body {
+	background-image: url("stripeback.png");
+}
+
+h1 {
+	color: #ffffff;
+	line-height: 0em;
+	font-size: 3em;
+}
+
+h3 {
+	line-height: 0em;
+	font-size:2em;
+}
+
+td {
+	text-align: center;
+}
+
+hr {
+    border: 0;
+    height: 2px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
